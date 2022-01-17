@@ -6,3 +6,5 @@ Official implementation for the implementation of the Self-Supervision technique
 Badri N Patro*, Kasturi G S*, Ansh Jain*, Vinay P Namboodiri
 
 <em>*equal contribution</em>
+
+#### Early research https://sites.google.com/view/visionandlanguage/part1
